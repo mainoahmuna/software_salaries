@@ -27,6 +27,7 @@ Through developing this application, I gained experience in:
 - Streamlit
 - scikit-learn
 - numpy
+- pandas
 
 ## Files Included
 
